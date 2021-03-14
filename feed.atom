@@ -1,0 +1,12 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HTML Encoded-Entity Example Feed</title>
+  <author><name>Kevin Locke</name></author>
+  <id>urn:uuid:1d8cc458-f539-4b6d-b602-9dbfdaa3224a</id>
+  <updated>2021-03-14T18:32:55Z</updated>
+  <entry>
+    <title>HTML Encoded-Entity Example Entry</title>
+    <id>urn:uuid:423db1ca-164b-49fb-b761-d6eda414d679</id>
+    <updated>2021-03-14T18:32:55Z</updated>
+    <content type="html">std::unique_ptr&amp;lt;S&amp;gt; myvar;</content>
+  </entry>
+</feed>
