@@ -1,0 +1,23 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Title <code>std::unique_ptr&lt;S&gt;</code> var</div></title>
+  <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Subtitle <code>std::unique_ptr&lt;S&gt;</code> var</div></subtitle>
+  <author><name>Kevin Locke</name></author>
+  <id>urn:uuid:9fa9ba57-23fa-439a-8938-a22d976e54f2</id>
+  <updated>2021-03-19T12:49:34Z</updated>
+  <rights type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Feed Rights <code>std::unique_ptr&lt;S&gt;</code> var</div></rights>
+  <entry>
+    <title type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Content Post Title <code>std::unique_ptr&lt;S&gt;</code> var</div></title>
+    <id>urn:uuid:9fbfa58e-43fa-4fd8-9bab-9df62067c4b6</id>
+    <updated>2021-03-19T12:49:34Z</updated>
+    <rights type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Feed Rights <code>std::unique_ptr&lt;S&gt;</code> var</div></rights>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">A post about <code>std::unique_ptr&lt;S&gt;</code> var</div></content>
+  </entry>
+  <entry>
+    <title type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Summary Post Title <code>std::unique_ptr&lt;S&gt;</code> var</div></title>
+    <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Summary <code>std::unique_ptr&lt;S&gt;</code> var</div></summary>
+    <id>urn:uuid:00496e2e-a796-4e30-beef-540e8c7d25ad</id>
+    <updated>2021-03-19T12:49:34Z</updated>
+    <rights type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Feed Rights <code>std::unique_ptr&lt;S&gt;</code> var</div></rights>
+    <content type="xhtml"></content>
+  </entry>
+</feed>

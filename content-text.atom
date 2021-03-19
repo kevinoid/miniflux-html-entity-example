@@ -1,0 +1,23 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Title std::unique_ptr&lt;S&gt; var</title>
+  <subtitle type="text">Subtitle std::unique_ptr&lt;S&gt; var</subtitle>
+  <author><name>Kevin Locke</name></author>
+  <id>urn:uuid:a9710ae0-cde5-4379-904d-f7f651faa47b</id>
+  <updated>2021-03-19T12:49:34Z</updated>
+  <rights type="text">Feed Rights std::unique_ptr&lt;S&gt; var</rights>
+  <entry>
+    <title type="text">Content Post Title std::unique_ptr&lt;S&gt; var</title>
+    <id>urn:uuid:7bb70462-4a64-4ca4-b753-c605d1506591</id>
+    <updated>2021-03-19T12:49:34Z</updated>
+    <rights type="text">Entry Rights std::unique_ptr&lt;S&gt; var</rights>
+    <content type="text">A post about std::unique_ptr&lt;S&gt; var</content>
+  </entry>
+  <entry>
+    <title type="text">Summary Post Title std::unique_ptr&lt;S&gt; var</title>
+    <summary type="text">Summary std::unique_ptr&lt;S&gt; var</summary>
+    <id>urn:uuid:ae2cf87f-2415-46e9-979a-8ef5a19cb529</id>
+    <updated>2021-03-19T12:49:34Z</updated>
+    <rights type="text">Entry Rights std::unique_ptr&lt;S&gt; var</rights>
+    <content type="text"></content>
+  </entry>
+</feed>

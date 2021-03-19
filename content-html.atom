@@ -1,0 +1,23 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="html">Title &lt;code&gt;std::unique_ptr&amp;lt;S&amp;gt;&lt;/code&gt; var</title>
+  <subtitle type="html">Subtitle &lt;code&gt;std::unique_ptr&amp;lt;S&amp;gt;&lt;/code&gt; var</subtitle>
+  <author><name>Kevin Locke</name></author>
+  <id>urn:uuid:96d05fd4-dd14-4f5d-971d-c877b51d835d</id>
+  <updated>2021-03-19T12:49:34Z</updated>
+  <rights type="html">Feed Rights &lt;code&gt;std::unique_ptr&amp;lt;S&amp;gt;&lt;/code&gt; var</rights>
+  <entry>
+    <title type="html">Content Post Title &lt;code&gt;std::unique_ptr&amp;lt;S&amp;gt;&lt;/code&gt; var</title>
+    <id>urn:uuid:b87f91cc-74a8-4694-851b-11a0c3d19f57</id>
+    <updated>2021-03-19T12:49:34Z</updated>
+    <rights type="html">Entry Rights &lt;code&gt;std::unique_ptr&amp;lt;S&amp;gt;&lt;/code&gt; var</rights>
+    <content type="html">Content &lt;code&gt;std::unique_ptr&amp;lt;S&amp;gt;&lt;/code&gt; var</content>
+  </entry>
+  <entry>
+    <title type="html">Summary Post Title &lt;code&gt;std::unique_ptr&amp;lt;S&amp;gt;&lt;/code&gt; var</title>
+    <summary type="html">Summary &lt;code&gt;std::unique_ptr&amp;lt;S&amp;gt;&lt;/code&gt; var</summary>
+    <id>urn:uuid:1f4d5f4f-13bb-4241-a564-d29ae7119871</id>
+    <updated>2021-03-19T12:49:34Z</updated>
+    <rights type="html">Entry Rights &lt;code&gt;std::unique_ptr&amp;lt;S&amp;gt;&lt;/code&gt; var</rights>
+    <content type="html"></content>
+  </entry>
+</feed>
