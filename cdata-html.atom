@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="html"><![CDATA[Title <code>std::unique_ptr&lt;S&gt;</code> var]]></title>
+  <subtitle type="html"><![CDATA[Subtitle <code>std::unique_ptr&lt;S&gt;</code> var]]></subtitle>
+  <author><name>Kevin Locke</name></author>
+  <id>urn:uuid:dc7d67f8-b44b-433e-813c-92a5f075fafd</id>
+  <updated>2021-03-19T12:49:34Z</updated>
+  <rights type="html"><![CDATA[Feed Rights <code>std::unique_ptr&lt;S&gt;</code> var]]></rights>
+  <entry>
+    <title type="html"><![CDATA[Content Post Title <code>std::unique_ptr&lt;S&gt;</code> var]]></title>
+    <id>urn:uuid:35bd8df3-1aa3-4b82-b965-dff9be54c395</id>
+    <updated>2021-03-19T12:49:34Z</updated>
+    <rights type="html"><![CDATA[Entry Rights <code>std::unique_ptr&lt;S&gt;</code> var]]></rights>
+    <content type="html"><![CDATA[Content <code>std::unique_ptr&lt;S&gt;</code> var]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Summary Post Title <code>std::unique_ptr&lt;S&gt;</code> var]]></title>
+    <summary type="html"><![CDATA[Summary <code>std::unique_ptr&lt;S&gt;</code> var]]></summary>
+    <id>urn:uuid:b77d1c8a-b5ce-47a4-9ef5-358aa8822a93</id>
+    <updated>2021-03-19T12:49:34Z</updated>
+    <rights type="html"><![CDATA[Entry Rights <code>std::unique_ptr&lt;S&gt;</code> var]]></rights>
+    <content type="html"/>
+  </entry>
+</feed>

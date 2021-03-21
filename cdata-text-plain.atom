@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text"><![CDATA[Title std::unique_ptr<S> var]]></title>
+  <subtitle type="text"><![CDATA[Subtitle std::unique_ptr<S> var]]></subtitle>
+  <author><name>Kevin Locke</name></author>
+  <id>urn:uuid:7b04d964-0f15-446a-a801-90dbc6c424f9</id>
+  <updated>2021-03-19T12:49:34Z</updated>
+  <rights type="text"><![CDATA[Feed Rights std::unique_ptr<S> var]]></rights>
+  <entry>
+    <title type="text"><![CDATA[Content Post Title std::unique_ptr<S> var]]></title>
+    <id>urn:uuid:0a22d12c-a3f2-4848-bb1b-7602219e0a1b</id>
+    <updated>2021-03-19T12:49:34Z</updated>
+    <rights type="text"><![CDATA[Entry Rights std::unique_ptr<S> var]]></rights>
+    <content type="text/plain"><![CDATA[A post about std::unique_ptr<S> var]]></content>
+  </entry>
+</feed>
